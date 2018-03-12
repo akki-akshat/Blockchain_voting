@@ -1,4 +1,5 @@
-<?php include "backend/connection.php";?>
+<?php include "backend/connection.php"; ?>
+<?php include "easybitcoin.php"; ?>
 <?php include
     "backend/functions.php";
     session_start();
